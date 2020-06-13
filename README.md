@@ -1,7 +1,7 @@
 # cyberFellowLab1
 
 ## Http Headers
-<img src='lab1Http.jpg' title='Http header' width='' alt='' />
+<img src='Lab1Http.jpg' title='Http header' width='' alt='' />
 
 ## IDOR Challenge 
 <img src='IDOR1.gif' title='IDOR challenge' width='' alt='' />
