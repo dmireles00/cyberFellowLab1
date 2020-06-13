@@ -1,5 +1,9 @@
 # cyberFellowLab1
 
+
+## Week 1 lab
+<img src='week1.png' title='Http header' width='' alt='' />
+
 ## Http Headers
 <img src='Lab1Http.jpg' title='Http header' width='' alt='' />
 
